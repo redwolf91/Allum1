@@ -15,4 +15,4 @@ Allum1 est un jeu basé sur des allumettes :
 
 pour commencer, 
 
-./allum1 sur terminal.
+./allum1.php sur terminal.
